@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WhoAreYou</string>
+    <string name="myscreen">Текст с моего слоя!</string>
+</resources>
