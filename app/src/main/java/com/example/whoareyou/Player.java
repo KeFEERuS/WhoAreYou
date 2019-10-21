@@ -11,7 +11,7 @@ public class Player {
     }
 
     public void setAge(int age) {
-        if (this.age == null) {
+        if (this.age == 0) {
             this.age = age;
         } else System.out.println("Мне уже исполнилось: " + this.age);
     }
